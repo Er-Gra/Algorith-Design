@@ -1,7 +1,7 @@
 /*
- * Date
- * Name
- * Program
+ * May 10th, 2020
+ * Erika Graham
+ * Algorith Design
  */
 
 /**
